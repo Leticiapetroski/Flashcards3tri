@@ -1,23 +1,23 @@
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'Jesus'
+    'O que é OBJECTIVE-C?',
+    'O OBJECTIVE-C é uma linguagem de programação'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual a capital da Alemanha?',
+    'A capital da Alemanha é Berlim'
 )
 
 criaCartao(
     'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'O que é um Algoritimo?',
+    'Um Algoritimo é um conjunto de instruções'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Lingua Alemã',
+    'Como se diz bom dia em Alemão?',
+    'Bom dia em alemão é Gutem Morgen'
 )
